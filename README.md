@@ -1,7 +1,6 @@
 # Warzone 1 — TryHackMe
 
 **Difficulty:** Medium  
-**Time:** 26 minutes  
 **Platform:** TryHackMe  
 **Category:** SOC Core Operations | Network Forensics | Threat Intelligence  
 **Status:** Completed ✅
