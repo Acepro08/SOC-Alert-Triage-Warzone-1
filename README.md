@@ -1,9 +1,8 @@
 # Warzone 1 — TryHackMe
-
-**Difficulty:** Medium  
+ 
 **Platform:** TryHackMe  
 **Category:** SOC Core Operations | Network Forensics | Threat Intelligence  
-**Status:** Completed ✅
+
 
 ---
 
